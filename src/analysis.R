@@ -1,2 +1,3 @@
 # my analysis
-data <- 
+library(tidyverse)
+data <- read.csv() 
